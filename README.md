@@ -1,6 +1,6 @@
 # Aplikasi-Berat-Badan
 
-![screenshot1](.png)
+![screenshot1](https://github.com/Angganada/Aplikasi-Berat-Badan/blob/master/ideal1.PNG)
 
 ###Nama  : Anggana Duhita Apsari
 ###Kelas : XI R2
